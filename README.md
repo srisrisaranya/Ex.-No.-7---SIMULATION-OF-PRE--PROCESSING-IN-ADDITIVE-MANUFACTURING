@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No. 6 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/srisrisaranya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148516638/c6b5e179-d1b4-458a-be2b-762debf75f17)
+![image](https://github.com/srisrisaranya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148516638/52f54346-7506-4527-a541-6f6c2053b351)
 
-### Name:
-### Register Number:
+### Name: SARANYA S
+### Register Number: 212223110044
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
